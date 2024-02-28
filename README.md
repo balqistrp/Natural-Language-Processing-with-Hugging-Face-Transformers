@@ -5,4 +5,5 @@ Author : Cognitive Class AI
 - Name: Balqist Retrianto Putri
 - Program: IBM Advance AI
 ## Tech Stack
-Jupyter Notebook
+- Jupyter Notebook
+- Python
